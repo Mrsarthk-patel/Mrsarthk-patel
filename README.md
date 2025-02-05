@@ -7,7 +7,7 @@ About Me
 
 🔭 I’m currently working on Microsoft Click Quality Analyst as a vendor through HCL Tech.
 
-🌱 I’m currently learning Machine Learning with Python other Data Science practices.
+🌱 I’m currently learning Machine Learning with Python and other Data Science practices.
 
 💬 Ask me about Data Analysis, Data Intelligence, Engineering and Data Science.
 
@@ -23,7 +23,7 @@ Data Analysis: Microsoft Excel, MySQL, Power BI, Python, Statistics
 
 Visualization: PowerBI, Microsoft Excel
 
-LinkedIn: wwww.linkedin.com/in/mrsarthk
+LinkedIn: www.linkedin.com/in/mrsarthk
 
 Feel free to explore my repositories and reach out if you'd like to collaborate or discuss anything related to Data Science and Engineering.
 
