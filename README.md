@@ -1,29 +1,54 @@
-- Hi there, I'm Sarthak Patel! 👋
+👋 Hi, I'm Sarthak Patel
 
-I'm a Data Analyst with a passion for Data Science and Engineering. Welcome to my GitHub profile!
+🎯 Power BI Developer | Data Analyst
+💼 ~4 years of experience in Data Analytics & Business Intelligence
+📊 Currently working with HCL Tech for Microsoft (as Client) - turning raw data into meaningful insights with Power BI, SQL, Excel, DAX & Python.
+
+👨‍💻 About Me
+
+I'm a passionate Power BI Developer & Data Analyst with expertise in creating end-to-end BI solutions. Over the last 3.8 years, I’ve worked on transforming data into actionable insights for business teams, enabling better decision-making across sales, finance, and digital analytics domains.
+
+I’ve built impactful dashboards and data models including EV Sales Analysis, Click Traffic Quality, Retail Inventory Performance, and Credit Card Transactions (Finance).
+
+🧠 Core Skills
+
+Power BI: DAX, Power Query (M), Row-Level Security, Bookmarks, Drillthrough, KPI dashboards, Power BI Service & Desktop
+
+SQL : Data cleaning, joins, aggregations, subqueries, stored procedures, window functions
+
+Data Analysis: Sales trend analysis, Fraud detection, Traffic quality scoring, inventory optimization
+
+Other Tools: Excel (advanced), SSMS, Google Analytics (for traffic quality projects)
+
+Cloud & Modern BI: Basic exposure to Azure Data Factory & Microsoft Fabric (Lakehouse, Data Pipelines)
+
+📁 Featured Projects
+
+📊 EV Sales Power BI Dashboard
+Analyzed Electric Vehicle sales across manufacturers, models & regions for 2022. KPIs include YoY growth, sales trend analysis, and CAGR for EV adoption.
+
+🛒 Retail & E-commerce Sales Dashboard
+Developed dashboards to analyze top-selling SKUs, profitability, and sales performance metrics for better inventory planning.
+
+💳 Credit Card Transactions (Finance Analytics)
+Built a finance-focused dashboard to monitor transaction volumes, fraud detection, and customer spending trends.
+
+🌐 Click Traffic Quality Dashboard
+Designed a Power BI solution to detect invalid traffic, analyze IP-level fraud, and assist advertisers in billing corrections.
+
+📜 Certifications
+
+✅ Microsoft Certified: Power BI Data Analyst Associate
+✅ Microsoft Certified: Azure Data Fundamentals
+✅  Azure DevOps Fundamentals (Udemy) 
+
+📫 Let’s Connect
+
+🌐 LinkedIn: https://www.linkedin.com/in/mrsarthk/
+
+📧 mrsarthkiimt@gmail.com
 
 
-About Me
+📍 Open to roles in Power BI / Data & Business Analytics domain
 
-🔭 I’m currently working on Microsoft Click Quality Analyst as a vendor through HCL Tech.
-
-🌱 I’m currently learning Machine Learning with Python and other Data Science practices.
-
-💬 Ask me about Data Analysis, Data Intelligence, Engineering and Data Science.
-
-📫 How to reach me: You can send me an email at mrsarthkiimt@gmail.com or give me a call @ +91 9565006100.
-
-Skills
-
-Programming Languages: C, C#, Java, Python
-
-Tools & Technologies: Azure Data Explorer, PowerShell, MySQL  Workbench, PowerBI, Anaconda, Microsoft Dynamics 365, Mirosoft Office etc.
-
-Data Analysis: Microsoft Excel, MySQL, Power BI, Python, Statistics
-
-Visualization: PowerBI, Microsoft Excel
-
-LinkedIn: www.linkedin.com/in/mrsarthk
-
-Feel free to explore my repositories and reach out if you'd like to collaborate or discuss anything related to Data Science and Engineering.
-
+⚡ “Data is not just numbers — it’s the story behind every decision.”
