@@ -52,13 +52,13 @@ Designed a Power BI solution to detect invalid traffic, analyze IP-level fraud, 
 
 ✅  Azure DevOps Fundamentals (Udemy) 
 
-
+---
 
 📫 Let’s Connect
 
-🌐 [LinkedIn:] (https://www.linkedin.com/in/mrsarthk/)
+-  🌐 [LinkedIn:] (https://www.linkedin.com/in/mrsarthk/)
 
-📧 [E-mail:] (mrsarthkiimt@gmail.com)
+-  📧 [E-mail:] (mrsarthkiimt@gmail.com)
 
 
 **📍 Open to roles in Power BI / Data & Business Analytics domain**
