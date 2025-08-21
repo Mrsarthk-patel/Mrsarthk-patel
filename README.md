@@ -1,7 +1,9 @@
 # 👋 Hi, I'm Sarthak Patel
 
 🎯 Power BI Developer | Data Analyst
+
 💼 ~4 years of experience in Data Analytics & Business Intelligence
+
 📊 Currently working with HCL Tech for Microsoft (as Client) - turning raw data into meaningful insights with Power BI, SQL, Excel, DAX & Python.
 
 ---
