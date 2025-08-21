@@ -1,17 +1,19 @@
 # 👋 Hi, I'm Sarthak Patel
 
-## 🎯 Power BI Developer | Data Analyst
-## 💼 ~4 years of experience in Data Analytics & Business Intelligence
-### 📊 Currently working with HCL Tech for Microsoft (as Client) - turning raw data into meaningful insights with Power BI, SQL, Excel, DAX & Python.
+🎯 Power BI Developer | Data Analyst
+💼 ~4 years of experience in Data Analytics & Business Intelligence
+📊 Currently working with HCL Tech for Microsoft (as Client) - turning raw data into meaningful insights with Power BI, SQL, Excel, DAX & Python.
 
-## 👨‍💻 About Me
+---
+
+### 👨‍💻 About Me
 
 I'm a passionate Power BI Developer & Data Analyst with expertise in creating end-to-end BI solutions. Over the last 3.8 years, I’ve worked on transforming data into actionable insights for business teams, enabling better decision-making across sales, finance, and digital analytics domains.
 
 
 I’ve built impactful dashboards and data models including EV Sales Analysis, Click Traffic Quality, Retail Inventory Performance, and Credit Card Transactions (Finance).
 
-## 🧠 Core Skills
+### 🧠 Core Skills
 
 - Power BI: DAX, Power Query (M), Row-Level Security, Bookmarks, Drillthrough, KPI dashboards, Power BI Service & Desktop
 
@@ -23,7 +25,7 @@ I’ve built impactful dashboards and data models including EV Sales Analysis, C
 
 - Cloud & Modern BI: Basic exposure to Azure Data Factory & Microsoft Fabric (Lakehouse, Data Pipelines)
 
-## 📁 Featured Projects
+### 📁 Featured Projects
 
 ### 📊 EV Sales Power BI Dashboard
 Analyzed Electric Vehicle sales across manufacturers, models & regions for 2022. KPIs include YoY growth, sales trend analysis, and CAGR for EV adoption.
