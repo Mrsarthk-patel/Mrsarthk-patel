@@ -25,6 +25,8 @@ I’ve built impactful dashboards and data models including EV Sales Analysis, C
 
 - Cloud & Modern BI: Basic exposure to Azure Data Factory & Microsoft Fabric (Lakehouse, Data Pipelines)
 
+---
+
 ### 📁 Featured Projects
 
 ### 📊 EV Sales Power BI Dashboard
@@ -39,6 +41,8 @@ Built a finance-focused dashboard to monitor transaction volumes, fraud detectio
 ### 🌐 Click Traffic Quality Dashboard
 Designed a Power BI solution to detect invalid traffic, analyze IP-level fraud, and assist advertisers in billing corrections.
 
+---
+
 ## 📜 Certifications
 
 
@@ -47,6 +51,8 @@ Designed a Power BI solution to detect invalid traffic, analyze IP-level fraud, 
 ✅ Microsoft Certified: Azure Data Fundamentals
 
 ✅  Azure DevOps Fundamentals (Udemy) 
+
+
 
 📫 Let’s Connect
 
